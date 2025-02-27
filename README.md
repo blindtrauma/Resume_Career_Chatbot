@@ -35,7 +35,7 @@ Running: Launch the Flask server (default port 5001) to expose endpoints:
 GET / for health check.
 POST /chat for processing uploaded resume and job description files along with query parameters.
 
-
+!!!!!!!!!!!!NOTE:-  CLONE ANNOY FROM GITHUB AND GENERATE A BUILD using pip install annoy in the directory for this to work!!!!!!!!!!!
 
 **Procedure to Test Using Postman:**
 

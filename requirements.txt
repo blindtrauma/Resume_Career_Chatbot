@@ -1,0 +1,11 @@
+PyMuPDF
+numpy
+dill
+flask-cors
+flask
+mistralai
+annoy
+sklearn
+rank-bm25
+gensim
+typing
